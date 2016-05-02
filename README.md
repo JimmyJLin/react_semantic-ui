@@ -4,7 +4,7 @@
 
 ```javascript
 
-  > git clone origin git@github.com:JimmyJLin/react_temp.git
+  > git clone git@github.com:JimmyJLin/react_temp.git
   > cd react_temp
   > npm install
   > npm start
